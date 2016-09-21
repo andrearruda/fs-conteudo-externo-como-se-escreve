@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<item>
+		<title>A / Há</title>
+		<phrases>
+			<wrong>Atuo no setor de controladoria a 15 anos.</wrong>
+			<correct>Atuo no setor de controladoria há 15 anos.</correct>
+		</phrases>
+		<explication>Para indicar tempo passado usa-se o verbo haver.</explication>
+	</item>
+	<item>
+		<title>A champanhe / O champanhe</title>
+		<phrases>
+			<wrong>Pegue a champanhe e vamos comemorar.</wrong>
+			<correct>Pegue o champanhe e vamos comemorar.</correct>
+		</phrases>
+		<explication>A palavra “champanhe” provém do francês “champagne” e é um substantivo masculino.</explication>
+	</item>
+	<item>
+		<title>A cores / Em cores</title>
+		<phrases>
+			<wrong>O material da apresentação será a cores.</wrong>
+			<correct>O material da apresentação será em cores.</correct>
+		</phrases>
+		<explication>Se o correto é material em preto em branco, o certo é dizer material em cores.</explication>
+	</item>
+	<item>
+		<title>A domicílio / Em domicílio</title>
+		<phrases>
+			<wrong>O serviço engloba a entrega a domicílio.</wrong>
+			<correct>O serviço engloba a entrega em domicílio.</correct>
+		</phrases>
+		<explication>No caso de entrega usa-se a forma em domicílio. A forma a domicílio é usada para verbos de movimento.</explication>
+	</item>
+	<item>
+		<title>A longo prazo / Em longo prazo</title>
+		<phrases>
+			<wrong>A longo prazo, serão necessárias mudanças.</wrong>
+			<correct>Em longo prazo, serão necessárias mudanças.</correct>
+		</phrases>
+		<explication>Usa-se a preposição em nos seguintes casos: em longo prazo, em curto prazo e em médio prazo.</explication>
+	</item>
+	<item>
+		<title>A nível de / Em nível de</title>
+		<phrases>
+			<wrong>A pesquisa será realizada a nível de direção.</wrong>
+			<correct>A pesquisa será realizada em nível de direção.</correct>
+		</phrases>
+		<explication>A expressão “Em nível de” deve ser usada quando se refere a “âmbito”. O uso de “a nível de” significa “à mesma altura”.</explication>
+	</item>
+	<item>
+		<title>À partir de / A partir de</title>
+		<phrases>
+			<wrong>À partir de novembro, estarei de férias.</wrong>
+			<correct>A partir de novembro, estarei de férias.</correct>
+		</phrases>
+		<explication>Não se usa crase antes de verbos.</explication>
+	</item>
+	<item>
+		<title>Há pouco / A pouco</title>
+		<phrases>
+			<wrong>O diretor chegará daqui há pouco.</wrong>
+			<correct>O diretor chegará daqui a pouco.</correct>
+		</phrases>
+		<explication>O correto é  "a pouco" pois indica ação que ainda vai ocorrer, a ideia é de futuro.</explication>
+	</item>
+	<item>
+		<title>À prazo / A prazo</title>
+		<phrases>
+			<wrong>Vamos vender à prazo.</wrong>
+			<correct>Vamos vender a prazo.</correct>
+		</phrases>
+		<explication>Não se usa crase antes de palavra masculina.</explication>
+	</item>
+	<item>
+		<title>À rua / Na rua</title>
+		<phrases>
+			<wrong> José, residente à rua Estados Unidos.</wrong>
+			<correct> José, residente na rua Estados Unidos.</correct>
+		</phrases>
+		<explication>Os vocábulos residir, morador, residente, situado e sito pedem o uso da preposição em.</explication>
+	</item>
+	<item>
+		<title>A vista / À vista</title>
+		<phrases>
+			<wrong>O pagamento foi feito a vista.                                                                                                                                                  </wrong>
+			<correct>O pagamento foi feito à vista.</correct>
+		</phrases>
+		<explication>Ocorre crase nas expressões formadas por palavras femininas.</explication>
+	</item>
+	<item>
+		<title>Adequa / Adequada</title>
+		<phrases>
+			<wrong>O móvel não se adequa à sala.</wrong>
+			<correct>O móvel não é adequado à sala.</correct>
+		</phrases>
+		<explication>Adequar é um verbo defectivo, ou seja, não se conjuga em todas as pessoas e tempos. </explication>
+	</item>
+	<item>
+		<title>Agradecer pela / Agradecer a</title>
+		<phrases>
+			<wrong>Agradecemos pela preferência.</wrong>
+			<correct>Agradecemos a preferência.</correct>
+		</phrases>
+		<explication>O certo é agradecer a alguém alguma coisa. Exemplo: Agradeço a Deus a graça recebida.</explication>
+	</item>
+	<item>
+		<title>Aluga-se / Alugam-se</title>
+		<phrases>
+			<wrong>Aluga-se apartamentos.</wrong>
+			<correct>Alugam-se apartamentos.</correct>
+		</phrases>
+		<explication>O sujeito da oração (apartamentos) concorda com o verbo.</explication>
+	</item>
+	<item>
+		<title>Anexo / Anexa </title> 
+		<phrases>
+			<wrong>Segue anexo a carta de apresentação.</wrong>
+			<correct>Segue anexa a carta de apresentação. </correct>
+		</phrases>
+		<explication>Anexo é adjetivo e deve concordar com o substantivo a que se refere, em gênero e número. </explication>
+	</item>
+	<item>
+		<title>Ao invés de / Em vez de</title>
+		<phrases>
+			<wrong>Ao invés de comprar carros, compraremos caminhões.</wrong>
+			<correct>Em vez de comprar carros, compraremos caminhões.</correct>
+		</phrases>
+		<explication>“Ao invés de” representa contrariedade, oposição, o inverso. “Em vez de” quer dizer no lugar de.</explication>
+	</item>
+	<item>
+		<title>Aonde / Onde</title>
+		<phrases>
+			<wrong>Não sei aonde fica a sala do diretor.</wrong>
+			<correct>Não sei onde fica a sala do diretor.</correct>
+		</phrases>
+		<explication>O advérbio onde indica lugar em que algo ou alguém está. Deve ser utilizado somente para substituir vocábulo que expressa a ideia de lugar. </explication>
+	</item>
+	<item>
+		<title>Ao meu ver / A meu ver</title>
+		<phrases>
+			<wrong>Ao meu ver, a reunião foi um sucesso.</wrong>
+			<correct>A meu ver, a reunião foi um sucesso.</correct>
+		</phrases>
+		<explication>Não existe a expressão ao meu ver. As formas corretas são: a meu ver, a nosso ver, a vosso ver.</explication>
+	</item>
+	<item>
+		<title> Às micro / Às micros</title>
+		<phrases>
+			<wrong>O pacote de tributos refere-se às micro e pequenas empresas.</wrong>
+			<correct>O pacote de tributos refere-se às micros e pequenas empresas.</correct>
+		</phrases>
+		<explication>Por se tratar de adjetivo, micro é variável e por isso deve ser grafada no plural quando for o caso.</explication>
+	</item>
+	<item>
+		<title>Através / Por</title>
+		<phrases>
+			<wrong>Fui avisada através de um email de que a reunião está cancelada.</wrong>
+			<correct>Fui avisada por email de que a reunião está cancelada.</correct>
+		</phrases>
+		<explication>“Para muitos gramáticos, através se refere ao que atravessa”. Prefira “pelo e-mail”, “por email”.</explication>
+	</item>
+	<item>
+		<title>Auferir / Aferir</title>
+		<phrases>
+			<wrong>No fim do expediente, o gestor deve auferir se os valores pagos.</wrong>
+			<correct>No fim do expediente, o gestor deve aferir se os valores pagos.</correct>
+		</phrases>
+		<explication>Os verbos aferir e auferir têm sentidos distintos. Aferir: conferir de acordo com o estabelecido, avaliar, calcular. Auferir: colher, obter, ter.</explication>
+	</item>
+	<item>
+		<title>Bastante / Bastantes</title>
+		<phrases>
+			<wrong>Eles leram o relatório bastante vezes.</wrong>
+			<correct>Eles leram o relatório bastantes vezes.</correct>
+		</phrases>
+		<explication>Para saber se bastante deve variar conforme o número é preciso saber qual a classificação dele na frase.  Quando é adjetivo deve variar. Se for advérbio é invariável. Se for pronome indefinido é variável. Se for substantivo, não varia, mas pede artigo definido masculino.</explication>
+	</item>
+	<item>
+		<title>Caiu em / Caiu</title>
+		<phrases>
+			<wrong>O lucro caiu em 10%.</wrong>
+			<correct>O lucro caiu 10%.</correct>
+		</phrases>
+		<explication>O verbo cair, assim como aumentar e diminuir, não admite a preposição “em”. E no sentido de descer, ir ao chão, ser demitido, o verbo cair é intransitivo.</explication>
+	</item>
+	<item>
+		<title>Chegar em / Chegar a</title>
+		<phrases>
+			<wrong>Chegamos em São Paulo, ontem.</wrong>
+			<correct>Chegamos a São Paulo, ontem.</correct>
+		</phrases>
+		<explication>O verbo exige a preposição a. Quem chega, chega a algum lugar, ou a alguma coisa.</explication>
+	</item>
+	<item>
+		<title>Chove / Chovem</title>
+		<phrases>
+			<wrong>Chove emails com reclamações de clientes.</wrong>
+			<correct>Chovem emails com reclamações de clientes.</correct>
+		</phrases>
+		<explication>Quando indica um fenômeno natural, o verbo chover é impessoal e fica sempre o singular. Mas no sentido figurado, como acontece acima, flexiona-se normalmente.</explication>
+	</item>
+	<item>
+		<title>Comprimento / Cumprimento</title>
+		<phrases>
+			<wrong>Entrou e não me comprimentou.</wrong>
+			<correct>Entrou e não me cumprimentou.</correct>
+		</phrases>
+		<explication>Comprimento está relacionado ao tamanho, à extensão de algo ou alguém. Cumprimento relaciona-se a dois verbos diferentes: cumprimentar uma pessoa e cumprir uma tarefa.</explication>
+	</item>
+	<item>
+		<title>Consiste de / Consiste em</title>
+		<phrases>
+			<wrong>A seleção consiste de cinco etapas.</wrong>
+			<correct>A seleção consiste em cinco etapas.</correct>
+		</phrases>
+		<explication>Consistir é verbo transitivo indireto e requer complemento regido da preposição em.</explication>
+	</item>
+	<item>
+		<title>Continuidade / Continuação</title>
+		<phrases>
+			<wrong>O sindicato optou pela continuidade da greve.</wrong>
+			<correct>O sindicato optou pela continuação da greve.</correct>
+		</phrases>
+		<explication>Continuidade refere-se à extensão de um acontecimento. Exemplo: dar continuidade ao governo. Continuação refere-se à duração de algo. Exemplo continuação da sessão.</explication>
+	</item>
+	<item>
+		<title>Correr atrás do prejuízo / Correr atrás do lucro</title>
+		<phrases>
+			<wrong>É hora de correr atrás do prejuízo.</wrong>
+			<correct>É hora de correr atrás do lucro.</correct>
+		</phrases>
+		<explication>Pode-se correr do prejuízo, mas nunca deve-se correr atrás dele. A forma correr atrás do prejuízo não faz o menor sentido.</explication>
+	</item>
+	<item>
+		<title>Da onde / De onde</title>
+		<phrases>
+			<wrong>Fortaleza é a cidade da onde vieram nossos colaboradores.</wrong>
+			<correct>Fortaleza é a cidade de onde vieram nossos colaboradores.</correct>
+		</phrases>
+		<explication>A forma de onde indica origem. Não existe a forma “da onde”.</explication>
+	</item>
+	<item>
+		<title>Daqui / Daqui a</title>
+		<phrases>
+			<wrong>Farei o pagamento daqui 5 dias.</wrong>
+			<correct>Farei o pagamento daqui a 5 dias.</correct>
+		</phrases>
+		<explication>O advérbio daqui é usado para indicar lugar ou tempo e pede a preposição a.</explication>
+	</item>
+	<item>
+		<title>De encontro aos / Ao encontro dos</title>
+		<phrases>
+			<wrong>A sua ideia vem de encontro ao que a empresa precisa.</wrong>
+			<correct>A sua ideia vem ao encontro do que a empresa precisa.</correct>
+		</phrases>
+		<explication>De encontro a é estar em sentido contrário, em oposição a. Ao encontro de é estar de acordo, ideia de conformidade.</explication>
+	</item>
+	<item>
+		<title>Debitou na / Debitou à</title>
+		<phrases>
+			<wrong>O banco debitou na minha conta a taxa.</wrong>
+			<correct>O banco debitou à minha conta a taxa.</correct>
+		</phrases>
+		<explication>Quem debita, debita a alguem.</explication>
+	</item>
+	<item>
+		<title>Desapercebidas / Despercebidas</title>
+		<phrases>
+			<wrong>As mudanças passaram desapercebidas pelos nossos executivos.</wrong>
+			<correct>As mudanças passaram despercebidas.</correct>
+		</phrases>
+		<explication>Desapercebido significa desprovido de, desprevenido. Exemplo: Não parei para cumprimenta-lo porque estava desapercebido. Despercebido significa não notado, não percebido. Exemplo: O erro passou despercebido pela equipe da redação do jornal.</explication>
+	</item>
+	<item>
+		<title>Descrição / Discrição</title>
+		<phrases>
+			<wrong>Ela age com descrição.</wrong>
+			<correct>Ela age com discrição.</correct>
+		</phrases>
+		<explication>Descrição refere-se ao ato de descrever. Exemplo: Ela fez a descrição do objeto. (ela descreveu). Discrição significa ser discreto.</explication>
+	</item>
+	<item>
+		<title>Descriminar / Discriminar</title>
+		<phrases>
+			<wrong>Descrimine os produtos na nota fiscal e coloque todos os códigos necessários.</wrong>
+			<correct>Discrimine os produtos na nota fiscal e coloque todos os códigos necessários.</correct>
+		</phrases>
+		<explication>Descriminar significa absolver, inocentar. É o que o prefixo “des” faz – indica uma ação no sentido contrário – e, nesse caso, quer dizer tirar o crime.Discriminar significa distinguir, separar, diferenciar, especificar.</explication>
+	</item>
+	<item>
+		<title>Dispor / Dispuser</title>
+		<phrases>
+			<wrong>Se ele dispor de tempo, poderá atende-lo em breve.</wrong>
+			<correct>Se ele dispuser de tempo, poderá atende-lo em breve.</correct>
+		</phrases>
+		<explication> A conjugação correta do verbo dispor na terceira pessoa do singular no futuro do pretérito é se ele dispuser. A conjugação acompanha a do verbo pôr.</explication>
+	</item>
+	<item>
+		<title>E nem / Nem</title>
+		<phrases>
+			<wrong>O funcionário não sabe escrever e nem ler.</wrong>
+			<correct>O funcionário não sabe escrever nem ler.</correct>
+		</phrases>
+		<explication>A conjunção nem significa “e não”.</explication>
+	</item>
+	<item>
+		<title>Em confirmação à / Em confirmação da</title>
+		<phrases>
+			<wrong>Em confirmação à minha proposta, envio os valores para execução do serviço.</wrong>
+			<correct>Em confirmação da minha proposta, envio os valores para execução do serviço.</correct>
+		</phrases>
+		<explication>Confirmação é um substantivo feminino que pede a preposição “de”.</explication>
+	</item>
+	<item>
+		<title> Em mãos / Em mão</title>
+		<phrases>
+			<wrong>O envelope deve ser entregue em mãos.</wrong>
+			<correct>O envelope deve ser entregue em mão.</correct>
+		</phrases>
+		<explication>Ninguém escreve a mãos, nem fica em pés. O correto é em mão, cuja abreviatura é E. M.</explication>
+	</item>
+	<item>
+		<title>Em vias de / Em via de</title>
+		<phrases>
+			<wrong>Estou em vias de finalizar o projeto.</wrong>
+			<correct>Estou em via de finalizar o projeto.</correct>
+		</phrases>
+		<explication>A locução é “em via de” e significa “a caminho de”, “prestes a”.</explication>
+	</item>
+	<item>
+		<title>Eminente / Iminente</title>
+		<phrases>
+			<wrong>A falência é eminente.</wrong>
+			<correct>A falência é iminente.</correct>
+		</phrases>
+		<explication>Eminente é um adjetivo que significa alto, grande, elevado, saliente, pessoa importante, notável. Exemplos: Era um eminente orador. A montanha eminente surge na paisagem. Iminente também é um adjetivo e indica que algo está prestes a acontecer. Exemplo: A sua morte é iminente.</explication>
+	</item>
+	<item>
+		<title>Ensinar a executarem / Ensinar a executar</title>
+		<phrases>
+			<wrong>O bom líder deve ensinar seus colaboradores a executarem as tarefas.</wrong>
+			<correct>O bom líder deve ensinar seus colaboradores a executar as tarefas.</correct>
+		</phrases>
+		<explication>Não se flexiona infinitivo com preposição que funcione como complemento de substantivo, adjetivo ou do próprio verbo principal. Exemplo: As mulheres conquistaram o direito de trabalhar fora de casa.</explication>
+	</item>
+	<item>
+		<title>Entre eu e ele / Entre mim e ele</title>
+		<phrases>
+			<wrong>Entre eu e ele não há conversa nem acordo.</wrong>
+			<correct>Entre mim e ele não há conversa nem acordo.</correct>
+		</phrases>
+		<explication>Os pronomes pessoais do caso reto exercem função de sujeito (ou predicativo do sujeito) e não de complemento.</explication>
+	</item>
+	<item>
+		<title>Falta / Faltam</title>
+		<phrases>
+			<wrong>Falta 30 dias para minhas férias começarem.</wrong>
+			<correct>Faltam 30 dias para minhas férias começarem.</correct>
+		</phrases>
+		<explication>O verbo deve concordar com o sujeito da frase. Um macete para encontrar o sujeito.</explication>
+	</item>
+	<item>
+		<title>Fazem / Faz</title>
+		<phrases>
+			<wrong>Fazem oito semanas que fui promovida.</wrong>
+			<correct>Faz oito semanas que fui promovida.</correct>
+		</phrases>
+		<explication>Verbo fazer quando sinaliza tempo que passou fica na 3ª pessoa do singular.</explication>
+	</item>
+	<item>
+		<title>Fazer uma colocação / Emitir uma opinião</title>
+		<phrases>
+			<wrong>Deixe-me fazer uma colocação a respeito do tema da reunião.</wrong>
+			<correct>Deixe-me emitir uma opinião a respeito do tema da reunião.</correct>
+		</phrases>
+		<explication>O padrão formal é emitir uma opinião e não fazer uma colocação, embora esta seja uma forma bastante usada.</explication>
+	</item>
+	<item>
+		<title>Ficou claro / Ficou clara</title>
+		<phrases>
+			<wrong>Ficou claro, após a reunião, a necessidade de corte de gastos.</wrong>
+			<correct>Ficou clara, após a reunião, a necessidade de corte de gastos.</correct>
+		</phrases>
+		<explication>A necessidade de corte de gastos é o que ficou clara, durante a reunião.</explication>
+	</item>
+	<item>
+		<title>Foi assistida / Assistiu à</title>
+		<phrases>
+			<wrong>A palestra foi assistida por muita gente</wrong>
+			<correct>Muita gente assistiu à palestra.</correct>
+		</phrases>
+		<explication>Verbo assistir no sentido de ver, presenciar, é transitivo indireto e a voz passiva só admite verbos transitivos diretos.</explication>
+	</item>
+	<item>
+		<title>Fosse, comprava / Fosse, compraria</title>
+		<phrases>
+			<wrong>Se eu fosse você eu comprava aquela gravata.</wrong>
+			<correct>Se eu fosse você eu compraria aquela gravata.</correct>
+		</phrases>
+		<explication>Atente à correlação verbal. Imperfeito do subjuntivo (se eu fosse) é usado com o futuro do pretérito (compraria). </explication>
+	</item>
+	<item>
+		<title>Guincho / Guinchamento</title>
+		<phrases>
+			<wrong>Sujeito a guincho</wrong>
+			<correct>Sujeito a guinchamento</correct>
+		</phrases>
+		<explication>Guincho é o veículo que faz a ação, isto é, o guinchamento.</explication>
+	</item>
+	<item>
+		<title>Há 10 anos atrás / Há 10 anos</title>
+		<phrases>
+			<wrong>Há 10 anos atrás, eu decidi comprar um imóvel.</wrong>
+			<correct>Há 10 anos, eu decidi comprar um imóvel. </correct>
+		</phrases>
+		<explication>É redundante usar “há” e “atrás” na mesma frase. O verbo haver impede a palavra atrás em seguida sempre que estiver relacionado a tempo, à ação que já se passou.</explication>
+	</item>
+	<item>
+		<title>Hora / Ora</title>
+		<phrases>
+			<wrong>Você pediu minha decisão, por hora ainda não a tenho.</wrong>
+			<correct> Você pediu minha decisão, por ora ainda não a tenho.</correct>
+		</phrases>
+		<explication>A expressão “por hora”, quando escrita com a letra “h”, refere-se ao tempo, a marcação em minutos. A expressão “por ora”, quando escrita sem o “h”, dá a idéia de no momento ou agora. É um advérbio de tempo, expressa sentido de por enquanto, no momento, atualmente. Ex: “Por ora estou muito ocupado”.</explication>
+	</item>
+	<item>
+		<title>Horas extra / Horas extras</title>
+		<phrases>
+			<wrong>Você deverá fazer horas extra para terminar o relatório.</wrong>
+			<correct>Você deverá fazer horas extras para terminar o relatório.</correct>
+		</phrases>
+		<explication>Neste caso, extra é um adjetivo e, portanto, é variável.</explication>
+	</item>
+	<item>
+		<title>Houveram / Houve</title>
+		<phrases>
+			<wrong>Houveram rumores sobre um anúncio de demissão em massa.</wrong>
+			<correct>Houve rumores sobre um anúncio de demissão em massa.</correct>
+		</phrases>
+		<explication>Haver no sentido de existir não é usado no plural.</explication>
+	</item>
+	<item>
+		<title>Implicará em / Implicará</title>
+		<phrases>
+			<wrong>A sua atitude implicará em demissão por justa causa.</wrong>
+			<correct>A sua atitude implicará demissão por justa causa.</correct>
+		</phrases>
+		<explication>O verbo implicar, quando é transitivo direto, significa “dar a entender”, “pressupor” ou “trazer como consequência”, “acarretar”, “provocar”. E se a transitividade é direta, isso quer dizer que não pede preposição.</explication>
+	</item>
+	<item>
+		<title>Independente / Independentemente</title>
+		<phrases>
+			<wrong>Independente da proposta, minha resposta é não.</wrong>
+			<correct>Independentemente da proposta, minha resposta é não.</correct>
+		</phrases>
+		<explication>Independente é adjetivo e independentemente é advérbio. O enunciado acima pede o advérbio.</explication>
+	</item>
+	<item>
+		<title>Insisto que / Insisto em que</title>
+		<phrases>
+			<wrong>Insisto que é preciso cortar custos na cadeia produtiva.</wrong>
+			<correct>Insisto em que é preciso cortar custos na cadeia produtiva.</correct>
+		</phrases>
+		<explication>O verbo insistir é transito indireto, quando objeto for uma coisa usa-se a preposição em e a preposição com aparece quando há referência a uma pessoa. Exemplo: Insisto nisso com o diretor.</explication>
+	</item>
+	<item>
+		<title>Maiores informações / Mais informações</title>
+		<phrases>
+			<wrong>Caso precise de maiores informações, entre em contato conosco.</wrong>
+			<correct>Caso precise de mais informações, entre em contato conosco.</correct>
+		</phrases>
+		<explication>O termo “maior” é comparativo, não deve ser utilizado nesse caso.</explication>
+	</item>
+	<item>
+		<title>No aguardo / Ao aguardo</title>
+		<phrases>
+			<wrong>Fico no aguardo da sua resposta.</wrong>
+			<correct>Fico ao aguardo da sua resposta.</correct>
+		</phrases>
+		<explication>O certo é “ao aguardo de”, “à espera de”.</explication>
+	</item>
+	<item>
+		<title>No ponto de / A ponto de</title>
+		<phrases>
+			<wrong>A demanda da chefia é tão alta, que estou no ponto de mandar tudo às favas.</wrong>
+			<correct>A demanda da chefia é tão alta, que estou a ponto de mandar tudo às favas.</correct>
+		</phrases>
+		<explication>Para dar a ideia de estar “prestes a”, “na iminência de”, use a expressão “a ponto de”.</explication>
+	</item>
+	<item>
+		<title>O mesmo / Ele</title>
+		<phrases>
+			<wrong>Antes de entrar no elevador, verifique se o mesmo encontra-se parado neste andar.</wrong>
+			<correct>Antes de entrar no elevador, verifique se ele se encontra parado neste andar.</correct>
+		</phrases>
+		<explication>O termo “o mesmo” não serve para substituir uma palavra anteriormente dita. Quem está nas empresas, portanto, deve preferir os pronomes ele(s) ou ela(s), cuidando para adequar a partícula “se” à nova sentença.</explication>
+	</item>
+	<item>
+		<title>Onde / Em que</title>
+		<phrases>
+			<wrong>Vamos à reunião onde decidiremos os rumos da companhia.</wrong>
+			<correct>Vamos à reunião em que decidiremos os rumos da companhia.</correct>
+		</phrases>
+		<explication>Reunião não é lugar e as palavras onde e aonde se referem apenas a lugares. Prefira “a reunião em que” ou “na qual decidiremos sobre”.</explication>
+	</item>
+	<item>
+		<title>O quanto antes / Quanto antes</title>
+		<phrases>
+			<wrong>Voltarei ao escritório o quanto antes.</wrong>
+			<correct>Voltarei ao escritório quanto antes.</correct>
+		</phrases>
+		<explication>Antes da locução adverbial “quanto antes” não se usa artigo definido “o”.</explication>
+	</item>
+	<item>
+		<title>Parcela única / De uma só vez</title>
+		<phrases>
+			<wrong>O pagamento será feito em parcela única.</wrong>
+			<correct>O pagamento será feito de uma só vez.</correct>
+		</phrases>
+		<explication>Parcela significa parte de um todo, logo se não há parcelamento, o certo é dizer “de uma só vez”.</explication>
+	</item>
+	<item>
+		<title>Penalizado / Punido</title>
+		<phrases>
+			<wrong>Quem desrespeitar o código de conduta será penalizado.</wrong>
+			<correct>Quem desrespeitar o código de conduta será punido.</correct>
+		</phrases>
+		<explication>Penalizar significa “causar pena”, “magoar”. No sentido de castigar, o certo é usar o verbo punir.</explication>
+	</item>
+	<item>
+		<title>Precaver / Prevenir</title>
+		<phrases>
+			<wrong>É importante que a empresa se precavenha contra invasões.</wrong>
+			<correct>É importante que a empresa se previna contra invasões.</correct>
+		</phrases>
+		<explication>O verbo precaver é defectivo, não tem todas as conjugações. No presente do indicativo só existem a 1ª e 2ª pessoa do plural (precavemos e precaveis) e não existe presente do subjuntivo. </explication>
+	</item>
+	<item>
+		<title>Precisam-se / Precisa-se</title>
+		<phrases>
+			<wrong>Precisam-se de bons vendedores.</wrong>
+			<correct>Precisa-se de bons vendedores.</correct>
+		</phrases>
+		<explication>Sempre que houver uma preposição depois do pronome “se” (de, por, para, com, em, etc.) não haverá plural, apenas singular. Exemplo: Trata-se de ideias inovadoras.</explication>
+	</item>
+	<item>
+		<title>Prefiro ... do que / Prefiro... a</title>
+		<phrases>
+			<wrong>Prefiro sair mais tarde do trabalho do que ficar parado no trânsito.</wrong>
+			<correct>Prefiro sair mais tarde do trabalho a ficar parado no trânsito.</correct>
+		</phrases>
+		<explication>Não há necessidade do comparativo “do que” porque não há comparação. “Não há necessidade de palavras como mais, mil vezes, do que”, diz o professor. </explication>
+	</item>
+	<item>
+		<title>Preveram / Previram</title>
+		<phrases>
+			<wrong>Os analistas preveram tempos de crise.</wrong>
+			<correct>Os analistas previram tempos de crise.</correct>
+		</phrases>
+		<explication>A conjugação do verbo prever segue a do verbo ver. Logo, se o certo é dizer eles viram, é certo dizer eles previram.</explication>
+	</item>
+	<item>
+		<title>Quadriplicar / Quadruplicar</title>
+		<phrases>
+			<wrong>O número de funcionários quadriplicou no ano passado.</wrong>
+			<correct>O número de funcionários quadruplicou no ano passado.</correct>
+		</phrases>
+		<explication>Quádruplo é o numeral e significa multiplicativo de quatro, quantidade quatro vezes maior que outra. Quadruplicação, quadruplicar e quádruplo são as formas corretas.</explication>
+	</item>
+	<item>
+		<title>Qualquer / Nenhum</title>
+		<phrases>
+			<wrong>Informo-lhes que não mantenho qualquer tipo de vínculo com a Construtora XYZ Ltda.</wrong>
+			<correct>Informo-lhes que não mantenho nenhum tipo de vínculo com a Construtora XYZ Ltda.</correct>
+		</phrases>
+		<explication>Qualquer é pronome de sentido afirmativo. “Logo, em construções negativas, deve-se empregar nenhum”, diz Laurinda, no livro.</explication>
+	</item>
+	<item>
+		<title>Quantia / Quantidade</title>
+		<phrases>
+			<wrong>Informe a quantia exata de itens no estoque.</wrong>
+			<correct>Informe a quantidade de itens no estoque.</correct>
+		</phrases>
+		<explication>Usa-se quantia para dinheiro e quantidade para coisas.</explication>
+	</item>
+	<item>
+		<title>Que preciso / De que preciso</title>
+		<phrases>
+			<wrong>Os documentos que preciso estão na gaveta.</wrong>
+			<correct>Os documentos de que preciso estão na gaveta.</correct>
+		</phrases>
+		<explication>O verbo precisar pede a preposição “de”.</explication>
+	</item>
+	<item>
+		<title>Responder o / Responder ao</title>
+		<phrases>
+			<wrong>Vou responder o email daqui a pouco.</wrong>
+			<correct>Vou responder ao email daqui a pouco.</correct>
+		</phrases>
+		<explication>A regência do verbo responder, no sentido de dar a resposta, é sempre indireta, ou seja, pede a preposição “a”.</explication>
+	</item>
+	<item>
+		<title>Retificar / Ratificar</title>
+		<phrases>
+			<wrong>O homem retificou as informações perante o juiz.</wrong>
+			<correct>O homem ratificou as informações perante o juiz</correct>
+		</phrases>
+		<explication>“Ratificar, do latim medieval, possui os seguintes significados: confirmar, reafirmar, validar, comprovar, autenticar. Retificar, também do latim com base na palavra rectus, se refere ao ato de corrigir, emendar, alinhar ou endireitar qualquer coisa”.</explication>
+	</item>
+	<item>
+		<title>Rúbrica / Rubrica</title>
+		<phrases>
+			<wrong>Ponha a sua rúbrica em todas as páginas do relatório, por favor.</wrong>
+			<correct>Ponha a sua rubrica em todas as páginas do relatório, por favor.</correct>
+		</phrases>
+		<explication>Rubrica é paroxítona, sem acento.</explication>
+	</item>
+	<item>
+		<title>Senão / Se não</title>
+		<phrases>
+			<wrong>Senão fizer o relatório, não cumprirá a meta.</wrong>
+			<correct>Se não fizer o relatório, não cumprirá a meta.</correct>
+		</phrases>
+		<explication>Para dar a ideia de “caso não faça o relatório”, como no exemplo acima, o certo é utilizar a forma separada. Senão (em uma só palavra) tem vários significados, do contrário, de outra forma, aliás, a não ser, mais do que, menos, com exceção de, mas, mas sim, mas também, defeito, erro, de repente, subitamente.</explication>
+	</item>
+	<item>
+		<title>Seríssimo / Seriíssimo</title>
+		<phrases>
+			<wrong>O problema é seríssimo.</wrong>
+			<correct>O problema é seriíssimo.</correct>
+		</phrases>
+		<explication>Os adjetivos terminados em io antecedido de consoante possuem o superlativo com ii.</explication>
+	</item>
+	<item>
+		<title>Somos em / Somos</title>
+		<phrases>
+			<wrong>No escritório, somos em cinco analistas.</wrong>
+			<correct>No escritório, somos cinco analistas.</correct>
+		</phrases>
+		<explication>Não há necessidade de empregar a preposição “em”.</explication>
+	</item>
+	<item>
+		<title>Tão pouco / Tampouco</title>
+		<phrases>
+			<wrong>Não fala inglês, tão pouco espanhol.</wrong>
+			<correct>Não fala inglês, tampouco espanhol.</correct>
+		</phrases>
+		<explication>Tão pouco equivale a muito pouco. Já tampouco pode significar: também não, nem sequer e nem ao menos.</explication>
+	</item>
+	<item>
+		<title>Vem / Veem</title>
+		<phrases>
+			<wrong>Eles vem problemas em todas as inovações propostas.</wrong>
+			<correct>Eles veem problemas em todas as inovações propostas.</correct>
+		</phrases>
+		<explication>As conjugações no presente do verbo ver: ele vê (com acento), eles veem (sem acento, segundo o Acordo Ortográfico da Língua Portuguesa). Exemplos: Ele vê os filhos aos sábados. Eles veem o pai uma vez por semana. O verbo vir, no presente, é conjugado assim: ele vem, eles vêm (com acento). Ele não vem sempre aqui. Eles vêm a São Paulo uma vez por ano.</explication>
+	</item>
+	<item>
+		<title>Vir / Vier</title>
+		<phrases>
+			<wrong>Se ele não vir amanhã, vai perder mais uma reunião importante.</wrong>
+			<correct>Se ele não vier amanhã, vai perder mais uma reunião importante.</correct>
+		</phrases>
+		<explication>No caso do verbo vir, temos as seguintes formas no futuro do subjuntivo: quando eu vier, ele vier, nós viermos, eles vierem. </explication>
+	</item>
+	<item>
+		<title>Visar a / Visar</title>
+		<phrases>
+			<wrong>Augusto visa o cargo de diretor comercial da empresa.</wrong>
+			<correct>Augusto visa ao cargo de diretor comercial da empresa.</correct>
+		</phrases>
+		<explication>Visar com o sentido de pretender é transitivo indireto, isto é, exige a preposição “a”.</explication>
+	</item>
+	<item>
+		<title>Zero horas / Zero hora</title>
+		<phrases>
+			<wrong>O novo modelo entra em vigor a partir das zero horas de amanhã.</wrong>
+			<correct>O novo modelo entra em vigor a partir da zero hora de amanhã.</correct>
+		</phrases>
+		<explication>O adjetivo composto zero-quilômetro é invariável.</explication>
+	</item>
+	<item>
+		<title>Ao par / A par</title>
+		<phrases>
+			<wrong>Ele já está ao par do ocorrido.</wrong>
+			<correct>Ele já está a par do ocorrido.</correct>
+		</phrases>
+		<explication> No sentido de estar ciente, o correto é “a par”. Use “ao par” somente para equivalência cambial. Ex: “Há muito tempo, o dólar e o real estiveram quase ao par.”</explication>
+	</item>
+	<item>
+		<title>Quites / Quite</title>
+		<phrases>
+			<wrong>O contribuinte está quites com a Receita Federal.</wrong>
+			<correct>O contribuinte está quite com a Receita Federal.</correct>
+		</phrases>
+		<explication> “Quite” deve concordar com o substantivo a que se refere. </explication>
+	</item>
+	<item>
+		<title>Media / Medeia</title>
+		<phrases>
+			<wrong>Ele sempre media os debates.</wrong>
+			<correct>Ele sempre medeia os debates.</correct>
+		</phrases>
+		<explication>Há quatro verbos irregulares com final –iar: mediar, ansiar, incendiar e odiar. Todos se conjugam como “odiar”: medeio, anseio, incendeio e odeio.</explication>
+	</item>
+	<item>
+		<title>Em princípio / A princípio</title>
+		<phrases>
+			<wrong>Achamos, em princípio, que ele estava falando a verdade. </wrong>
+			<correct>Achamos, a princípio, que ele estava falando a verdade. </correct>
+		</phrases>
+		<explication>A princípio equivale a “no início”. Em princípio significa “em tese”. Ex: Em princípio, todo homem é igual perante a lei.</explication>
+	</item>
+	<item>
+		<title>Aceita-se / Aceitam-se</title>
+		<phrases>
+			<wrong>Aceita-se encomendas para festas.</wrong>
+			<correct>Aceitam-se encomendas para festas.</correct>
+		</phrases>
+		<explication>A presença da partícula apassivadora “se” exige que o verbo transitivo direto concorde com o sujeito.</explication>
+	</item>
+	<item>
+		<title>Afim / A fim</title>
+		<phrases>
+			<wrong>Nós viemos afim de discutir o projeto. </wrong>
+			<correct>Nós viemos a fim de discutir o projeto. </correct>
+		</phrases>
+		<explication>A locução a fim de indica ideia de finalidade. Afim é um adjetivo e significa semelhança. Ex: Eles têm ideias afins.</explication>
+	</item>
+	<item>
+		<title>Tem / Têm</title>
+		<phrases>
+			<wrong>Eles tem feito o que podem nesta empresa.</wrong>
+			<correct>Eles têm feito o que podem nesta empresa.</correct>
+		</phrases>
+		<explication>Tem refere-se à 3ª pessoa do singular do verbo “ter” no Presente do Indicativo. Têm refere-se ao mesmo tempo verbal, porém na 3ª pessoa do plural. </explication>
+	</item>
+	<item>
+		<title>De mais / Demais</title>
+		<phrases>
+			<wrong>Você trabalha de mais.</wrong>
+			<correct>Você trabalha demais.</correct>
+		</phrases>
+		<explication>Demais significa excessivamente; também pode significar “os outros”. De mais opõe-se a “de menos”. Ex: Alguns possuem regalias de mais; outros de menos.</explication>
+	</item>
+	<item>
+		<title>Final de semana / Fim de semana</title>
+		<phrases>
+			<wrong>Bom final de semana!</wrong>
+			<correct>Bom fim de semana!</correct>
+		</phrases>
+		<explication>Fim é o contrário de início. Final é o contrário de inicial. Portanto: fim de semana; fim de jogo; parte final.</explication>
+	</item>
+	<item>
+		<title>Existe / Existem</title>
+		<phrases>
+			<wrong>Existe muitos problemas nesta empresa.</wrong>
+			<correct>Existem muitos problemas nesta empresa.</correct>
+		</phrases>
+		<explication>O verbo existir admite plural, diferentemente do verbo haver, que é impessoal.</explication>
+	</item>
+	<item>
+		<title>Assistir o / Assistir ao</title>
+		<phrases>
+			<wrong>Ele assistiu o filme “A teoria do nada”.</wrong>
+			<correct>Ele assistiu ao filme “A teoria do nada”.</correct>
+		</phrases>
+		<explication>O verbo assistir, no sentido de ver, exige a preposição “a”.</explication>
+	</item>
+	<item>
+		<title>Chego / Chegado</title>
+		<phrases>
+			<wrong>O candidato havia chego atrasado para a entrevista.</wrong>
+			<correct>O candidato havia chegado atrasado para a entrevista.</correct>
+		</phrases>
+		<explication>Embora alguns verbos tenham dupla forma de particípio (Exs: imprimido/impresso, frito/fritado, acendido/aceso), o único particípio do verbo chegar é chegado. Chego é 1ª pessoa do Presente do Indicativo. Ex: Eu sempre chego cedo.</explication>
+	</item>
+	<item>
+		<title>Meio / Meia</title>
+		<phrases>
+			<wrong>Ela estava meia nervosa na reunião.</wrong>
+			<correct>Ela estava meio nervosa na reunião.</correct>
+		</phrases>
+		<explication>No sentido de “um pouco”, a palavra “meio” é invariável. Como numeral, concorda com o substantivo. Ex: Ele comeu meia maçã.</explication>
+	</item>
+	<item>
+		<title>Viagem / Viajem</title>
+		<phrases>
+			<wrong>Espero que eles viagem amanhã. </wrong>
+			<correct>Espero que eles viajem amanhã. </correct>
+		</phrases>
+		<explication>Viajem é a flexão do verbo “viajar” no Presente do Subjuntivo e no Imperativo. Viagem é substantivo. Ex: Fiz uma linda viagem. </explication>
+	</item>
+	<item>
+		<title>À medida que / Na medida em que</title>
+		<phrases>
+			<wrong>É melhor comprar à vista à medida em os juros estão altos.</wrong>
+			<correct>É melhor comprar à vista na medida em que os juros estão altos.</correct>
+		</phrases>
+		<explication>Na medida em que equivale a “porque”. À medida que estabelece relação de proporção. Ex: O nível dos jogos melhora à medida que o time fica entrosado.</explication>
+	</item>
+	<item>
+		<title>Para mim / Para eu fazer</title>
+		<phrases>
+			<wrong>Era para mim fazer a apresentação, mas tive de me ausentar.</wrong>
+			<correct>Era para eu fazer a apresentação, mas tive de me ausentar.</correct>
+		</phrases>
+		<explication>“Para eu” deve ser usado quando se referir ao sujeito da frase e for seguido de um verbo no infinitivo. </explication>
+	</item>
+	<item>
+		<title>Mais / Mas</title>
+		<phrases>
+			<wrong>Gostaria de ter viajado, mais tive um imprevisto.</wrong>
+			<correct>Gostaria de ter viajado, mas tive um imprevisto.</correct>
+		</phrases>
+		<explication>Mas é conjunção adversativa e significa “porém”. Mais é advérbio de intensidade. Ex: Adicione mais açúcar se quiser.</explication>
+	</item>
+	<item>
+		<title>Perca / Perda</title>
+		<phrases>
+			<wrong>Há muita perca de tempo com banalidades.</wrong>
+			<correct>Há muita perda de tempo com banalidades.</correct>
+		</phrases>
+		<explication>Perca é verbo e perda é substantivo. Exs: Não perca as esperanças! Essa perda foi irreparável.</explication>
+	</item>
+	<item>
+		<title>Deu / Deram tantas horas</title>
+		<phrases>
+			<wrong>Deu dez da noite e ele ainda não chegou.</wrong>
+			<correct>Deram dez da noite e ele ainda não chegou.</correct>
+		</phrases>
+		<explication>Os verbos dar, bater e soar concordam com as horas. Porém, se houver sujeito, deve-se fazer a concordância: “O sino bateu dez horas.”</explication>
+	</item>
+	<item>
+		<title>Traz / Trás</title>
+		<phrases>
+			<wrong>Ele olhou para traz e viu o vulto.</wrong>
+			<correct>Ele olhou para trás e viu o vulto.</correct>
+		</phrases>
+		<explication>Trás significa parte posterior. Traz é a conjugação do verbo “trazer” na 3ª pessoa do singular do Presente do Indicativo. Ex: Ela sempre traz os relatórios para a gerência.</explication>
+	</item>
+	<item>
+		<title>Namorar com alguém / Namorar alguém</title>
+		<phrases>
+			<wrong>Maria namora com Paulo.</wrong>
+			<correct>Maria namora Paulo.</correct>
+		</phrases>
+		<explication>A regência do verbo namorar não admite preposição. </explication>
+	</item>
+	<item>
+		<title>Obrigado / Obrigada</title>
+		<phrases>
+			<wrong>Muito obrigado! – disse a funcionária.</wrong>
+			<correct>Muito obrigada! – disse a funcionária.</correct>
+		</phrases>
+		<explication>Homens devem dizer "obrigado". Mulheres dizem "obrigada". A flexão também ocorre no plural: “Muito obrigadas! – disseram as garotas ao professor.”</explication>
+	</item>
+	<item>
+		<title>Menos / Menos</title>
+		<phrases>
+			<wrong>Os atendentes fizeram menas tarefas hoje.</wrong>
+			<correct>Os atendentes fizeram menos tarefas hoje.</correct>
+		</phrases>
+		<explication>“Menas” não existe. Mesmo referindo-se a palavras femininas, use sempre menos. Ex: Havia menos pessoas naquele departamento.</explication>
+	</item>
+	<item>
+		<title>A cerca de / Acerca de</title>
+		<phrases>
+			<wrong>Estavam discutindo a cerca de política. </wrong>
+			<correct>Estavam discutindo acerca de política.</correct>
+		</phrases>
+		<explication>Acerca de significa “a respeito de”. A cerca de indica aproximação. Ex: Eu trabalho a cerca de 5 km daqui.</explication>
+	</item>
+</root>
