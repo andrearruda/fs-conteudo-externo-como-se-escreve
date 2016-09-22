@@ -37,7 +37,7 @@ final class HowDoYouWrite
                 shuffle($json);
             }
 
-            FileSystemCache::store($key, $data, 7200);
+            FileSystemCache::store($key, $data, 259200);
         }
 
         $xmlBuilder = new XmlBuilder('root');
