@@ -83,7 +83,8 @@
 	<item>
 		<title>A vista / À vista</title>
 		<phrases>
-			<wrong>O pagamento foi feito a vista.                                                                                                                                                  </wrong>
+			<wrong>O pagamento foi feito a vista.
+</wrong>
 			<correct>O pagamento foi feito à vista.</correct>
 		</phrases>
 		<explication>Ocorre crase nas expressões formadas por palavras femininas.</explication>
@@ -91,7 +92,8 @@
 	<item>
 		<title>Adequa / Adequada</title>
 		<phrases>
-			<wrong>O móvel não se adequa à sala.</wrong>
+			<wrong>O móvel não se adequa à sala.
+</wrong>
 			<correct>O móvel não é adequado à sala.</correct>
 		</phrases>
 		<explication>Adequar é um verbo defectivo, ou seja, não se conjuga em todas as pessoas e tempos. </explication>
@@ -113,7 +115,7 @@
 		<explication>O sujeito da oração (apartamentos) concorda com o verbo.</explication>
 	</item>
 	<item>
-		<title>Anexo / Anexa </title> 
+		<title>Anexo / Anexa </title>
 		<phrases>
 			<wrong>Segue anexo a carta de apresentação.</wrong>
 			<correct>Segue anexa a carta de apresentação. </correct>
@@ -139,7 +141,8 @@
 	<item>
 		<title>Ao meu ver / A meu ver</title>
 		<phrases>
-			<wrong>Ao meu ver, a reunião foi um sucesso.</wrong>
+			<wrong>Ao meu ver, a reunião foi um sucesso.
+</wrong>
 			<correct>A meu ver, a reunião foi um sucesso.</correct>
 		</phrases>
 		<explication>Não existe a expressão ao meu ver. As formas corretas são: a meu ver, a nosso ver, a vosso ver.</explication>
@@ -147,7 +150,8 @@
 	<item>
 		<title> Às micro / Às micros</title>
 		<phrases>
-			<wrong>O pacote de tributos refere-se às micro e pequenas empresas.</wrong>
+			<wrong>O pacote de tributos refere-se às micro e pequenas empresas.
+</wrong>
 			<correct>O pacote de tributos refere-se às micros e pequenas empresas.</correct>
 		</phrases>
 		<explication>Por se tratar de adjetivo, micro é variável e por isso deve ser grafada no plural quando for o caso.</explication>
@@ -164,7 +168,8 @@
 		<title>Auferir / Aferir</title>
 		<phrases>
 			<wrong>No fim do expediente, o gestor deve auferir se os valores pagos.</wrong>
-			<correct>No fim do expediente, o gestor deve aferir se os valores pagos.</correct>
+			<correct>No fim do expediente, o gestor deve aferir se os valores pagos.
+</correct>
 		</phrases>
 		<explication>Os verbos aferir e auferir têm sentidos distintos. Aferir: conferir de acordo com o estabelecido, avaliar, calcular. Auferir: colher, obter, ter.</explication>
 	</item>
@@ -179,7 +184,8 @@
 	<item>
 		<title>Caiu em / Caiu</title>
 		<phrases>
-			<wrong>O lucro caiu em 10%.</wrong>
+			<wrong>O lucro caiu em 10%.
+</wrong>
 			<correct>O lucro caiu 10%.</correct>
 		</phrases>
 		<explication>O verbo cair, assim como aumentar e diminuir, não admite a preposição “em”. E no sentido de descer, ir ao chão, ser demitido, o verbo cair é intransitivo.</explication>
@@ -187,7 +193,8 @@
 	<item>
 		<title>Chegar em / Chegar a</title>
 		<phrases>
-			<wrong>Chegamos em São Paulo, ontem.</wrong>
+			<wrong>Chegamos em São Paulo, ontem.
+</wrong>
 			<correct>Chegamos a São Paulo, ontem.</correct>
 		</phrases>
 		<explication>O verbo exige a preposição a. Quem chega, chega a algum lugar, ou a alguma coisa.</explication>
@@ -195,7 +202,8 @@
 	<item>
 		<title>Chove / Chovem</title>
 		<phrases>
-			<wrong>Chove emails com reclamações de clientes.</wrong>
+			<wrong>Chove emails com reclamações de clientes.
+</wrong>
 			<correct>Chovem emails com reclamações de clientes.</correct>
 		</phrases>
 		<explication>Quando indica um fenômeno natural, o verbo chover é impessoal e fica sempre o singular. Mas no sentido figurado, como acontece acima, flexiona-se normalmente.</explication>
@@ -203,7 +211,8 @@
 	<item>
 		<title>Comprimento / Cumprimento</title>
 		<phrases>
-			<wrong>Entrou e não me comprimentou.</wrong>
+			<wrong>Entrou e não me comprimentou.
+</wrong>
 			<correct>Entrou e não me cumprimentou.</correct>
 		</phrases>
 		<explication>Comprimento está relacionado ao tamanho, à extensão de algo ou alguém. Cumprimento relaciona-se a dois verbos diferentes: cumprimentar uma pessoa e cumprir uma tarefa.</explication>
@@ -211,7 +220,8 @@
 	<item>
 		<title>Consiste de / Consiste em</title>
 		<phrases>
-			<wrong>A seleção consiste de cinco etapas.</wrong>
+			<wrong>A seleção consiste de cinco etapas.
+</wrong>
 			<correct>A seleção consiste em cinco etapas.</correct>
 		</phrases>
 		<explication>Consistir é verbo transitivo indireto e requer complemento regido da preposição em.</explication>
@@ -219,7 +229,8 @@
 	<item>
 		<title>Continuidade / Continuação</title>
 		<phrases>
-			<wrong>O sindicato optou pela continuidade da greve.</wrong>
+			<wrong>O sindicato optou pela continuidade da greve.
+</wrong>
 			<correct>O sindicato optou pela continuação da greve.</correct>
 		</phrases>
 		<explication>Continuidade refere-se à extensão de um acontecimento. Exemplo: dar continuidade ao governo. Continuação refere-se à duração de algo. Exemplo continuação da sessão.</explication>
@@ -227,7 +238,8 @@
 	<item>
 		<title>Correr atrás do prejuízo / Correr atrás do lucro</title>
 		<phrases>
-			<wrong>É hora de correr atrás do prejuízo.</wrong>
+			<wrong>É hora de correr atrás do prejuízo.
+</wrong>
 			<correct>É hora de correr atrás do lucro.</correct>
 		</phrases>
 		<explication>Pode-se correr do prejuízo, mas nunca deve-se correr atrás dele. A forma correr atrás do prejuízo não faz o menor sentido.</explication>
@@ -235,15 +247,18 @@
 	<item>
 		<title>Da onde / De onde</title>
 		<phrases>
-			<wrong>Fortaleza é a cidade da onde vieram nossos colaboradores.</wrong>
-			<correct>Fortaleza é a cidade de onde vieram nossos colaboradores.</correct>
+			<wrong>Fortaleza é a cidade da onde vieram nossos colaboradores.
+</wrong>
+			<correct>Fortaleza é a cidade de onde vieram nossos colaboradores.
+</correct>
 		</phrases>
 		<explication>A forma de onde indica origem. Não existe a forma “da onde”.</explication>
 	</item>
 	<item>
 		<title>Daqui / Daqui a</title>
 		<phrases>
-			<wrong>Farei o pagamento daqui 5 dias.</wrong>
+			<wrong>Farei o pagamento daqui 5 dias.
+</wrong>
 			<correct>Farei o pagamento daqui a 5 dias.</correct>
 		</phrases>
 		<explication>O advérbio daqui é usado para indicar lugar ou tempo e pede a preposição a.</explication>
@@ -259,7 +274,8 @@
 	<item>
 		<title>Debitou na / Debitou à</title>
 		<phrases>
-			<wrong>O banco debitou na minha conta a taxa.</wrong>
+			<wrong>O banco debitou na minha conta a taxa.
+</wrong>
 			<correct>O banco debitou à minha conta a taxa.</correct>
 		</phrases>
 		<explication>Quem debita, debita a alguem.</explication>
@@ -267,7 +283,8 @@
 	<item>
 		<title>Desapercebidas / Despercebidas</title>
 		<phrases>
-			<wrong>As mudanças passaram desapercebidas pelos nossos executivos.</wrong>
+			<wrong>As mudanças passaram desapercebidas pelos nossos executivos.
+</wrong>
 			<correct>As mudanças passaram despercebidas.</correct>
 		</phrases>
 		<explication>Desapercebido significa desprovido de, desprevenido. Exemplo: Não parei para cumprimenta-lo porque estava desapercebido. Despercebido significa não notado, não percebido. Exemplo: O erro passou despercebido pela equipe da redação do jornal.</explication>
@@ -275,7 +292,8 @@
 	<item>
 		<title>Descrição / Discrição</title>
 		<phrases>
-			<wrong>Ela age com descrição.</wrong>
+			<wrong>Ela age com descrição.
+</wrong>
 			<correct>Ela age com discrição.</correct>
 		</phrases>
 		<explication>Descrição refere-se ao ato de descrever. Exemplo: Ela fez a descrição do objeto. (ela descreveu). Discrição significa ser discreto.</explication>
@@ -283,7 +301,8 @@
 	<item>
 		<title>Descriminar / Discriminar</title>
 		<phrases>
-			<wrong>Descrimine os produtos na nota fiscal e coloque todos os códigos necessários.</wrong>
+			<wrong>Descrimine os produtos na nota fiscal e coloque todos os códigos necessários.
+</wrong>
 			<correct>Discrimine os produtos na nota fiscal e coloque todos os códigos necessários.</correct>
 		</phrases>
 		<explication>Descriminar significa absolver, inocentar. É o que o prefixo “des” faz – indica uma ação no sentido contrário – e, nesse caso, quer dizer tirar o crime.Discriminar significa distinguir, separar, diferenciar, especificar.</explication>
@@ -291,7 +310,8 @@
 	<item>
 		<title>Dispor / Dispuser</title>
 		<phrases>
-			<wrong>Se ele dispor de tempo, poderá atende-lo em breve.</wrong>
+			<wrong>Se ele dispor de tempo, poderá atende-lo em breve.
+</wrong>
 			<correct>Se ele dispuser de tempo, poderá atende-lo em breve.</correct>
 		</phrases>
 		<explication> A conjugação correta do verbo dispor na terceira pessoa do singular no futuro do pretérito é se ele dispuser. A conjugação acompanha a do verbo pôr.</explication>
@@ -299,7 +319,8 @@
 	<item>
 		<title>E nem / Nem</title>
 		<phrases>
-			<wrong>O funcionário não sabe escrever e nem ler.</wrong>
+			<wrong>O funcionário não sabe escrever e nem ler.
+</wrong>
 			<correct>O funcionário não sabe escrever nem ler.</correct>
 		</phrases>
 		<explication>A conjunção nem significa “e não”.</explication>
@@ -307,7 +328,8 @@
 	<item>
 		<title>Em confirmação à / Em confirmação da</title>
 		<phrases>
-			<wrong>Em confirmação à minha proposta, envio os valores para execução do serviço.</wrong>
+			<wrong>Em confirmação à minha proposta, envio os valores para execução do serviço.
+</wrong>
 			<correct>Em confirmação da minha proposta, envio os valores para execução do serviço.</correct>
 		</phrases>
 		<explication>Confirmação é um substantivo feminino que pede a preposição “de”.</explication>
@@ -315,7 +337,8 @@
 	<item>
 		<title> Em mãos / Em mão</title>
 		<phrases>
-			<wrong>O envelope deve ser entregue em mãos.</wrong>
+			<wrong>O envelope deve ser entregue em mãos.
+</wrong>
 			<correct>O envelope deve ser entregue em mão.</correct>
 		</phrases>
 		<explication>Ninguém escreve a mãos, nem fica em pés. O correto é em mão, cuja abreviatura é E. M.</explication>
@@ -323,7 +346,8 @@
 	<item>
 		<title>Em vias de / Em via de</title>
 		<phrases>
-			<wrong>Estou em vias de finalizar o projeto.</wrong>
+			<wrong>Estou em vias de finalizar o projeto.
+</wrong>
 			<correct>Estou em via de finalizar o projeto.</correct>
 		</phrases>
 		<explication>A locução é “em via de” e significa “a caminho de”, “prestes a”.</explication>
@@ -331,7 +355,8 @@
 	<item>
 		<title>Eminente / Iminente</title>
 		<phrases>
-			<wrong>A falência é eminente.</wrong>
+			<wrong>A falência é eminente.
+</wrong>
 			<correct>A falência é iminente.</correct>
 		</phrases>
 		<explication>Eminente é um adjetivo que significa alto, grande, elevado, saliente, pessoa importante, notável. Exemplos: Era um eminente orador. A montanha eminente surge na paisagem. Iminente também é um adjetivo e indica que algo está prestes a acontecer. Exemplo: A sua morte é iminente.</explication>
@@ -339,7 +364,8 @@
 	<item>
 		<title>Ensinar a executarem / Ensinar a executar</title>
 		<phrases>
-			<wrong>O bom líder deve ensinar seus colaboradores a executarem as tarefas.</wrong>
+			<wrong>O bom líder deve ensinar seus colaboradores a executarem as tarefas.
+</wrong>
 			<correct>O bom líder deve ensinar seus colaboradores a executar as tarefas.</correct>
 		</phrases>
 		<explication>Não se flexiona infinitivo com preposição que funcione como complemento de substantivo, adjetivo ou do próprio verbo principal. Exemplo: As mulheres conquistaram o direito de trabalhar fora de casa.</explication>
@@ -347,7 +373,8 @@
 	<item>
 		<title>Entre eu e ele / Entre mim e ele</title>
 		<phrases>
-			<wrong>Entre eu e ele não há conversa nem acordo.</wrong>
+			<wrong>Entre eu e ele não há conversa nem acordo.
+</wrong>
 			<correct>Entre mim e ele não há conversa nem acordo.</correct>
 		</phrases>
 		<explication>Os pronomes pessoais do caso reto exercem função de sujeito (ou predicativo do sujeito) e não de complemento.</explication>
@@ -355,7 +382,8 @@
 	<item>
 		<title>Falta / Faltam</title>
 		<phrases>
-			<wrong>Falta 30 dias para minhas férias começarem.</wrong>
+			<wrong>Falta 30 dias para minhas férias começarem
+</wrong>
 			<correct>Faltam 30 dias para minhas férias começarem.</correct>
 		</phrases>
 		<explication>O verbo deve concordar com o sujeito da frase. Um macete para encontrar o sujeito.</explication>
@@ -857,7 +885,7 @@
 		<explication>Homens devem dizer "obrigado". Mulheres dizem "obrigada". A flexão também ocorre no plural: “Muito obrigadas! – disseram as garotas ao professor.”</explication>
 	</item>
 	<item>
-		<title>Menos / Menos</title>
+		<title>Menas / Menos</title>
 		<phrases>
 			<wrong>Os atendentes fizeram menas tarefas hoje.</wrong>
 			<correct>Os atendentes fizeram menos tarefas hoje.</correct>
